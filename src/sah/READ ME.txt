@@ -1,0 +1,7 @@
+La problema asta, am reusit sa creez tabla si sa pun fiecare piesa
+in locul in care ar trebui sa stea atunci cand incepe jocul, dar 
+nu am inteles prea bine cum ar trebui sa fac procesul de mutare 
+a fiecarei piese, adica regulile pentru fiecare. Asa ca am cautat pe net
+si metodele de la fiecare piesa sunt luate de acolo. 
+In rest am inteles cum folosesc clasa abstracta si am facut si diagrama UML
+ca sa observ mai bine ce se intampla in spate. 
